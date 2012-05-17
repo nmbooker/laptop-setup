@@ -2,7 +2,7 @@
 
 agy="apt-get -y"
 
-$agy install libgl1-mesa-glx  cups-bsd libxrender1 imagemagick pstoedit libpaper-utils libreoffice-filter-binfilter
-$agy libreoffice libreoffice-l10n-en-gb libreoffice-help-en-gb libreoffice-gtk
+$agy install libgl1-mesa-glx  cups-bsd libxrender1 imagemagick pstoedit libpaper-utils libsane libxrender1
+$agy install libreoffice libreoffice-l10n-en-gb libreoffice-help-en-gb libreoffice-gtk libreoffice-filter-binfilter
 $agy install openclipart-libreoffice
 $agy install myspell-en-gb mythes hyphen-en-us
