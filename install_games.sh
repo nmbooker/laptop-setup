@@ -2,7 +2,7 @@
 
 agy="apt-get -y"
 
-$agy install supertux2
+$agy install supertux
 $agy install neverball
 $agy install neverputt
 
