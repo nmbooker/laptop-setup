@@ -6,3 +6,4 @@
 * For each user:
 ** Disable compositing in XFCE
 ** Change GIMP entry in launcher bar to execute gimp rather than gimp-2.6
+* sudo apt-get clean         # free up some disk space.
