@@ -1,0 +1,17 @@
+= After re-imaging Windows:
+* Update the AVG Antivirus definitions
+* Install available Windows updates
+* Install the audio drivers (C:\DRIVERS\AUDIO\SETUP.EXE)
+* install gimp 2.8
+* make sure Google Chrome is installed for all users
+* As each user:
+** Disable hiding of file extensions for known file types.
+** Make sure Firefox is set as default browser.
+** Set up desktop:
+*** Set up desktop wallpaper.
+*** Set screensaver to blank.
+*** Disable drop shadows.
+*** Set font smoothing to ClearType
+*** Disable menu fade/slide effects.
+*** Show the underlined letters in menu by default.
+* Do initial virus scan.
