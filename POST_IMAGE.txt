@@ -1,6 +1,6 @@
 = Things I forgot to do before making image
 * cd /opt
-* sudo git clone git://github.com/nmbooker/laptop-setup.git
+* sudo git clone https://github.com/nmbooker/laptop-setup.git
 * sudo chown -R barry: /opt/laptop-setup
 * sudo rm -r /opt/baz_laptop_setup
 * install_extra_codecs.sh     To allow .aac files from itunes to play.
