@@ -2,6 +2,7 @@
 * install_extra_codecs.sh     To allow .aac files from itunes to play.
 * install_vlc.sh              A good media player that plays what others won't.
 * upgrade_gimp.sh
+* install_shotwell.sh
 * For each user:
 ** Disable compositing in XFCE
 ** Change GIMP entry in launcher bar to execute gimp rather than gimp-2.6
