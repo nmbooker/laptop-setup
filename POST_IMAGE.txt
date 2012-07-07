@@ -7,6 +7,10 @@
 * install_vlc.sh              A good media player that plays what others won't.
 * upgrade_gimp.sh
 * install_shotwell.sh
+* install_edu_games.sh
+* install_brasero.sh
+* remove_xfburn.sh
+* install_aptitude.sh
 * For each user:
 ** Disable compositing in XFCE
 ** Change GIMP entry in launcher bar to execute gimp rather than gimp-2.6
