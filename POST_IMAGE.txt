@@ -11,6 +11,7 @@
 * install_brasero.sh
 * remove_xfburn.sh
 * install_aptitude.sh
+* install_games.sh           Because I've added more since.
 * For each user:
 ** Disable compositing in XFCE
 ** Change GIMP entry in launcher bar to execute gimp rather than gimp-2.6
