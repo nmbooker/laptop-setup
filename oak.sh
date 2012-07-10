@@ -26,5 +26,6 @@ apt-get upgrade
 ./big/remove_pidgin.sh
 ./devel/install_git.sh
 ./devel/rails_db_build_deps.sh
+./devel/rvm_deps.sh
 apt-get dist-upgrade
 popd
