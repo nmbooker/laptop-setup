@@ -27,5 +27,6 @@ apt-get upgrade
 ./devel/install_git.sh
 ./devel/rails_db_build_deps.sh
 ./devel/rvm_deps.sh
+./devel/ruby_build_deps.sh
 apt-get dist-upgrade
 popd
