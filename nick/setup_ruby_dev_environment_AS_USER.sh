@@ -14,6 +14,6 @@ function diefail() {
 rvm use 1.9.2 || rvm install 1.9.2 || diefail
 rvm use --default 1.9.2 || diefail
 
-rvm use 1.9.2@rails_3.2 || rvm gemset create 1.9.2@rails_3.2 || diefail
-rvm use 1.9.2@rails_3.2 || diefail
+rvm gemset use rails_3.2 || rvm gemset create rails_3.2 || diefail
+rvm gemset use rails_3.2 || diefail
 gem install rails --version "~> 3.2" --no-ri --no-rdoc || diefail
