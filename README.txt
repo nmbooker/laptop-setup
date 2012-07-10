@@ -1,6 +1,6 @@
-# Laptop setup scripts
+# Laptop (and desktop) setup scripts
 
-Scripts for setting up laptops.
+Scripts for setting up laptops and desktop machines.
 
 merlin/POST_IMAGE.txt lists what to do after re-imaging merlin.
 
