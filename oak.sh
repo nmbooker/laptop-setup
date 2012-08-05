@@ -18,6 +18,7 @@ apt-get upgrade
 ./install_games.sh
 ./install_gwibber.sh
 ./install_pymazon.sh
+./install_mscorefonts.sh
 ./upgrade_gimp.sh
 ./upgrade_xfce_4.10.sh
 ./big/install_cheese.sh
