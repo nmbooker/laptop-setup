@@ -19,6 +19,7 @@ apt-get upgrade
 ./install_gwibber.sh
 ./install_pymazon.sh
 ./install_mscorefonts.sh
+./install_lunar_indicator.sh
 ./upgrade_gimp.sh
 ./upgrade_xfce_4.10.sh
 ./big/install_cheese.sh
