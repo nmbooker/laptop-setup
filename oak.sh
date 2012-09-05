@@ -30,5 +30,6 @@ apt-get upgrade
 ./devel/rails_db_build_deps.sh
 ./devel/rvm_deps.sh
 ./devel/ruby_build_deps.sh
+./devel/python_qt4.sh
 apt-get dist-upgrade
 popd
