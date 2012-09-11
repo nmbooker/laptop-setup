@@ -13,7 +13,8 @@ apt-get -y install idle
 ./install_edu_games.sh
 ./install_games.sh
 ./install_mscorefonts.sh
-./install_virtualbox.sh
+./install_inkscape.sh
+./install_pinta.sh
 ./big/install_cheese.sh
 ./devel/install_git.sh
 ./upgrade_gimp.sh
